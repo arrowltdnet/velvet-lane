@@ -177,6 +177,16 @@
 					"slug": "accent-7"
 				},
 				{
+					"color": "#4B1533",
+					"name": "Velvet",
+					"slug": "velvet"
+				},
+				{
+					"color": "#8E3B60",
+					"name": "Velvet / Two",
+					"slug": "velvet-2"
+				},
+				{
 					"color": "#d77c27",
 					"name": "Button Hover Color",
 					"slug": "button-hover-color"
