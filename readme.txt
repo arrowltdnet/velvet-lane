@@ -1,4 +1,4 @@
-=== FashionFusion ===
+=== Velvet Lane ===
 Contributors: Themegrove
 Requires at least: 6.5
 Tested up to: 7.0
@@ -8,9 +8,9 @@ License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
-Your Gateway to Next-Level E-Commerce Excellence-FashionFusion isn’t just an ordinary e-commerce theme – it’s a game-changer. 
-Built with Full Site Editing (FSE) capabilities, FashionFusion puts the power of website customization directly in your hands, allowing you to create a truly unique online shopping experience with unparalleled ease. 
-Say goodbye to cookie-cutter designs and hello to endless possibilities. With FashionFusion, you have the freedom to sculpt every aspect of your online store exactly the way you envision it. 
+Your Gateway to Next-Level E-Commerce Excellence-Velvet Lane isn’t just an ordinary e-commerce theme – it’s a game-changer. 
+Built with Full Site Editing (FSE) capabilities, Velvet Lane puts the power of website customization directly in your hands, allowing you to create a truly unique online shopping experience with unparalleled ease. 
+Say goodbye to cookie-cutter designs and hello to endless possibilities. With Velvet Lane, you have the freedom to sculpt every aspect of your online store exactly the way you envision it. 
 From captivating homepage layouts to seamless product displays, you can tailor every element to reflect your brand’s personality and style. Documentation: https://themegrove.com/documentation/, Demo: https://demos.themegrove.com/fashionfusion/
 
 == Resources ==
