@@ -95,6 +95,10 @@ Source: https://github.com/garand/sticky
 
 == Change Log ==
 
+== 1.7 ==
+* Rebranded theme to Velvet Lane
+* Added Velvet color palette, Velvet Luxe style variation and Velvet Promo pattern
+
 == 1.5 ==
 * Tested upto 7.0
 
