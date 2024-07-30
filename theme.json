@@ -485,7 +485,7 @@
 							}
 				},
 			"border": {
-				"radius":"6px"
+				"radius": "8px"
 			    },
 			"color": {
 				"background": "var(--wp--preset--color--primary)",
