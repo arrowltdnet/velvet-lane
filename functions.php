@@ -60,7 +60,8 @@ function fashionfusion_register_pattern_category() {
 	$patterns = array();
 
 	$block_pattern_categories = array(
-		'fashionfusion' => array( 'label' => __( 'FashionFusion', 'fashionfusion' ) )
+		'fashionfusion' => array( 'label' => __( 'FashionFusion', 'fashionfusion' ) ),
+		'velvet'        => array( 'label' => __( 'Velvet', 'fashionfusion' ) )
 	);
 
 	$block_pattern_categories = apply_filters( 'fashionfusion_block_pattern_categories', $block_pattern_categories );
